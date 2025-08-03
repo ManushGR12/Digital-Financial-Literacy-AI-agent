@@ -4,7 +4,7 @@ An AI-powered assistant designed to help users understand and navigate digital f
 
 ---
 
-![AI Assistant](https://github.com/ManushGR12/Digital-Financial-Literacy-AI-agent/blob/main/ai.jpg?raw=true)
+<img src="https://github.com/ManushGR12/Digital-Financial-Literacy-AI-agent/blob/main/ai1.jpg?raw=true" alt="AI Assistant" width="100%")
 
 
 ---
