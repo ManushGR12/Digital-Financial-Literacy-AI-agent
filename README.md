@@ -4,7 +4,7 @@ An AI-powered assistant designed to help users understand and navigate digital f
 
 ---
 
-![ai](ai.jpg)
+![ai](ai.png)
 
 
 ---
