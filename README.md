@@ -79,8 +79,8 @@ Supports multiple Indian languages to help users from diverse backgrounds unders
 **3. Polite, Safe & Scam-Aware Conversations**
 Detects off-topic or unsafe queries and gently redirects users while promoting online safety.
 
-****4. Covers Full Spectrum of Financial Literacy**
-Empowers users with knowledge on UPI, budgeting, loans, **interest rates, investments, and fraud prevention.
+**4. Covers Full Spectrum of Financial Literacy**
+Empowers users with knowledge on UPI, budgeting, loans, interest rates, investments, and fraud prevention.
 
 **5. End-to-End Deployment on IBM Cloud**
 Completely hosted and powered by IBM Cloud services — secure, scalable, and future-ready.
@@ -217,8 +217,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Created by **Manush G R** during the IBM SkillsBuild for Academia Internship 2025 provided by **Edunet Foundation**.
-> Department of Computational Science.
+> Created by **Manush G R** during the IBM SkillsBuild for Academia Internship 2025 provided by **Edunet Foundation** and **AICTE (All India Council for Technical Education)**
+Department of Computational Science.
+
 ---
 
 🤝🏻 [Connect with me on LinkedIn](https://www.linkedin.com/in/manush-g-r-8bbb23363)
