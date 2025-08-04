@@ -1,4 +1,4 @@
-# Financial Literacy AI Agent <|°_°|>
+# Financial Literacy AI Agent ⚛🇦🇮
 
 Project Title: FinFriend – Your Smart Guide to Digital Finance
 
