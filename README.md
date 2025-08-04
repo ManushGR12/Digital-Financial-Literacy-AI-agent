@@ -219,6 +219,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 > Created by **Manush G R** during the IBM SkillsBuild for Academia Internship 2025 provided by **Edunet Foundation**.
+> Department of Computational Science.
 ---
 
 🤝🏻 [Connect with me on LinkedIn](https://www.linkedin.com/in/manush-g-r-8bbb23363)
