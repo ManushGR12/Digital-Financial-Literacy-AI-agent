@@ -149,10 +149,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/shiva-pandala-243914229/)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/manush-g-r-8bbb23363)
 
 ---
 
-> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Shiva Pandala**
+> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Manush G R**
 
 
