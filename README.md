@@ -151,21 +151,20 @@ Combines retrieved facts with natural-language generation to deliver user-friend
 FinFriend politely redirects or warns users when unsafe or unrelated content is detected.
 
 ---
-
-## Screenshots 🏞️
-### 🔹 Setting up..
+## Results Refference.
+### 🔹 Setting up
 ![Setup & preview image](setup.jpg)
-### 🔹 Agent Instructions...
+### 🔹 Agent Instructions
 ![Agent Instructions](agent_instructions.jpg)
-### 🔹 Quick Start Questions...
+### 🔹 Quick Start Questions
 ![quick_start_questions](quick_start_questions.jpg)
-### 🔹 Tools used & Testing...
+### 🔹 Tools used & Testing
 ![Tool Used & Testing](tool_testing.jpg)
-### 🔹 Deployment & Preview...
+### 🔹 Deployment & Preview
 ![Deployment & Testing](deployed.jpg)
-### 🔹 API References after Deployment...
+### 🔹 API References after Deployment
 ![api _references](links.jpg)
-### 🔹 Resources List...
+### 🔹 Resources List
 ![resourses_list.jpg](resourses_list.jpg)
 
 ---
