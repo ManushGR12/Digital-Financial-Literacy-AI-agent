@@ -104,12 +104,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ---
 
-## Recordings(watch to build on your own)
-▶️ [Building](https://youtu.be/oanWlnqpiP4)
-▶️ [Testing & Deployment](https://youtu.be/SfwFLWpIVdk)
-
----
-
 ## 📌 How to Run or Deploy
 
 1. Log in to IBM Cloud Lite: https://cloud.ibm.com
